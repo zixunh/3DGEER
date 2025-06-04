@@ -1,12 +1,14 @@
-<h1 align="center"> 3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians </h1>
+# 3DGEER: Exact and Efficient Volumetric Rendering with 3D Gaussians
+<p align="center">
+  
 [![Website](https://img.shields.io/badge/Website-Visit-blue)](https://zixunh.github.io/3d-geer/)
 [![ArXiv](https://img.shields.io/badge/ArXiv-2505.24053-b31b1b)](https://arxiv.org/abs/2505.24053)
 [![Video](https://img.shields.io/badge/Video-Watch-red)](https://www.youtube.com/watch?v=Grl9jSMIgds)
-[![Colab](https://img.shields.io/badge/Colab-Coming%20Soon-lightgrey)]()
+![Colab](https://img.shields.io/badge/Colab-Coming%20Soon-lightgrey)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-<div align="center">
-<img src="assets/teaser.png" style="height:100px;" />
-</div>
+
+![Teaser](assets/teaser.png)
+</p>
 
 ## TODO
 - [ ] Release CUDA code
